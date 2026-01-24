@@ -1,8 +1,8 @@
 package com.didimo777.hs.repositories;
 
-import edu.aitu.oop3.db.DatabaseConnection;
-import edu.aitu.oop3.entities.Room;
-import edu.aitu.oop3.exceptions.NotFoundException;
+import com.didimo777.hs.db.DatabaseConnection;
+import com.didimo777.hs.entities.Room;
+import com.didimo777.hs.exceptions.NotFoundException;
 
 import java.sql.*;
 import java.util.ArrayList;
